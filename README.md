@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-menka-769b86247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-menka-769b86247" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,5 +42,3 @@
 
 ⚡ **Fun Quote of the Day:**
 > "In God we trust. All others must bring data." – W. Edwards Deming
-
-
